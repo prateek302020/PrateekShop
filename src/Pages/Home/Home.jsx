@@ -17,4 +17,4 @@ function Home({AddToCart}) {
   )
 }
 
-export default Home
+export default Home;
